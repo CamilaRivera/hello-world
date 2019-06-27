@@ -1,1 +1,1 @@
-hello world this is Camila
+This is the readme text
